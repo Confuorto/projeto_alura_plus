@@ -159,10 +159,6 @@ footer li.lista__link a{
 	color: var(--botao-azul);
 }
 
-.lista__link a:active{
-	color: purple;
-}
-
 .rodape__texto{
 	color: var(--cinza-secundario);
 	font-size: 14px;
